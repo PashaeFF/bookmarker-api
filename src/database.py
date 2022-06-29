@@ -44,3 +44,7 @@ class Bookmark(db.Model):
 
     def __repr__(self) -> str:
         return 'Bookmarks>>> {self.id}'
+
+
+
+        
